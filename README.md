@@ -4,7 +4,7 @@
 
 A Smart Parking Management System to tackle illegal parking and improve space efficiency using a grid-based layout and Dijkstra's algorithm for optimal spot allocation.
 📄 **Published Paper:**  
-**"Transforming Urban Parking: Intelligent System for a Better City Experience" ICTCS 2024 ** 
+**Transforming Urban Parking: Intelligent System for a Better City Experience ICTCS 2024** 
 
 ## 🔑 Features
 
